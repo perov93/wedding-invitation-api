@@ -14,15 +14,15 @@ return [
      */
     \Core\Support\Time::NAME => [
 
-        'y' => 'tahun',
-        'm' => 'bulan',
-        'd' => 'hari',
-        'h' => 'jam',
-        'i' => 'menit',
-        's' => 'detik',
+        'y' => 'година',
+        'm' => 'месец',
+        'd' => 'дни',
+        'h' => 'часове',
+        'i' => 'минути',
+        's' => 'секунди',
 
-        'ago' => 'yang lalu.',
-        'recently' => 'baru saja.',
+        'ago' => 'преди.',
+        'recently' => 'само.',
     ],
 
     /**
